@@ -1,6 +1,6 @@
-# Tetris Clone
-## Description
-This is a tetris clone written in HTML and vanilla javascript.
+<<<<<<< HEAD
+# Tetris
+A Tetris clone made with pure javascript and html
 
 ## Running and Controls
 Simple run the index.html file in a browser the start the game. The left and right arrow keys are used to shift pieces to the left and right. The spacebar is used to rotate them.
@@ -18,3 +18,7 @@ Simple run the index.html file in a browser the start the game. The left and rig
 - Pieces can be rotated clockwise and counter-clockwise (only clockwise is used in the control scheme. The code for counter-clockwise rotation can be found in tetris.js in the rotate function).
 - Game loss condition implemented - If pieces stack higher than the board, the user is presented a game over screen
 - Pieces added to the board are assigned a colour. Green = Safe (closer to the bottom), Red = Unsafe (closer to the top). As pieces stack higher they begin to look more red.
+=======
+# Tetris
+A Tetris clone made with pure javascript and html
+>>>>>>> fc9cbf53e52bce310dda7f9e8155dee30b38f22c
